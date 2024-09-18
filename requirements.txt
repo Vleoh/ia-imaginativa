@@ -1,0 +1,8 @@
+torch
+transformers
+numpy
+tqdm
+matplotlib
+sentencepiece
+accelerate
+bitsandbytes
